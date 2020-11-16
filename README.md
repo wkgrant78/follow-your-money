@@ -11,12 +11,13 @@ Create a budget tracker app that allows the user to log expenditures and deposit
 ### DEVELOPMENT PLAN:
 * Create repo and main folders and files, import provided "Develop" folder and install required npm packages
 * Create a MongoDB Atlas account and connect to database
-* Write the server.js, create workout/exercise models, api/html routes
+* Create manifest, database and service worker files
 * Check functionality
 * Deploy onHeroku
 
 ### COMMITS:
 * Initial commit with imported "Develop" folders
+* Installed npm packages, created db.js, manifest, and service-worker.js files
 
 
 ### SCREENSHOTS:

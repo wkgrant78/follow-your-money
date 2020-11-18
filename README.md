@@ -28,7 +28,7 @@ Create a budget tracker app that allows the user to log expenditures and deposit
 ### SCREENSHOTS:
 
 #### Budget Tracker
-<img src="../screenshot.png" alt="Budget Tracker">
+<img src="../img/screenshot.png" alt="Budget Tracker">
 
 ### HEROKU URL:
 

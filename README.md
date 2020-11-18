@@ -22,13 +22,13 @@ Create a budget tracker app that allows the user to log expenditures and deposit
 * Reorganized folders/files and created initial service-worker.js
 * Updated server.js, created db.js
 * Completed manifest and service-worker.js, updated server and db.js, tested functionality locally - functional
-* Created/linked Mongo and Heroku, deployed app - functioning online
+* Created/linked Mongo and Heroku, deployed app - functioning online, not storing data
+* Checked routes - functioning on/offline, updated README
 
 ### SCREENSHOTS:
 
-#### screenshot name
-<img src="./" alt="img name">
-
+#### Budget Tracker
+<img src="./screenshot.png" alt="Budget Tracker">
 
 ### HEROKU URL:
 

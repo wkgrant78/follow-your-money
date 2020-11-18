@@ -13,12 +13,16 @@ Create a budget tracker app that allows the user to log expenditures and deposit
 * Create a MongoDB Atlas account and connect to database
 * Create manifest, database and service worker files
 * Check functionality
-* Deploy onHeroku
+* Create db in Mongo and link to Heroku
+* Deploy app
 
 ### COMMITS:
 * Initial commit with imported "Develop" folders
 * Installed npm packages, created db.js, manifest, and service-worker.js files
-
+* Reorganized folders/files and created initial service-worker.js
+* Updated server.js, created db.js
+* Completed manifest and service-worker.js, updated server and db.js, tested functionality locally - functional
+* Created/linked Mongo and Heroku, deployed app - functioning on/offline
 
 ### SCREENSHOTS:
 
@@ -28,6 +32,7 @@ Create a budget tracker app that allows the user to log expenditures and deposit
 
 ### HEROKU URL:
 
+https://travel-finance-tracker.herokuapp.com/
 
 ### GIThUB URL:
 

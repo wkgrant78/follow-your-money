@@ -1,6 +1,7 @@
 console.log('This is your service-worker.js file!');
 
 const filesToCache = [
+    '/',
     './db.js',
     './index.html',
     './index.js',
